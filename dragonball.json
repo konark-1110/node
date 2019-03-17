@@ -1,0 +1,7 @@
+{
+  "Name": "Dragon Ball",
+  "Found": 1984,
+  "Description": "This is an Anime based on adventures of saiyan named Goku",
+  "Members": ["Goku","Vegeta","Master Roshi","Krillin","Picollo","Gohan"],
+  "Albums": ["Saiyan saga","Frieza Saga","Cell Saga","Buu Saga","Battle of gods"],
+}
